@@ -134,6 +134,6 @@ Copy Public IP
 
 Connect using SSH:
 
-ssh azureuser@<public-ip>
+ssh adminuser@<public-ip>
 
 
