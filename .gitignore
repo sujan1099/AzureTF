@@ -1,0 +1,5 @@
+.terraform.lock.hcl
+.terraform/
+id_ed25519.pub
+provider.tf
+

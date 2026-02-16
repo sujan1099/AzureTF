@@ -1,0 +1,6 @@
+rgname = "sujan_tf"
+location = "west europe"
+sujan = "sujan-tf-infra"
+vnet_cidr_block = "10.0.0.0/16"
+subnet_prefix = "10.0.2.0/24"
+size = "Standard_d2s_v3"
