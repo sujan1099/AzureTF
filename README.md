@@ -132,8 +132,6 @@ Check all deployed resources
 
 Copy Public IP
 
-Connect using SSH:
-
-ssh adminuser@<public-ip>
+Connect using SSH:ssh adminuser@<public-ip>
 
 
